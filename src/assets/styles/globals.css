@@ -1,0 +1,10 @@
+@import "@/assets/styles/colors.css";
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("https://dailybing.com/images/186ac2ec82c1ffc0c54728f85bd744c66ee80b13");
+}
